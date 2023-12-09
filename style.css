@@ -1011,7 +1011,6 @@ footer {
         justify-content: center;
         padding-right: 0;
         margin-right: 0;
-        transform: translateX(-100%);
     }
 
     .feature.text h3{
